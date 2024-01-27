@@ -32,5 +32,12 @@ inversoMultiplicativo(a,b)
     
 #Ejercicio 4
 #Potencia de un numero 2*(e) mod p, donde "e" es un numero de 256 bits y "p" es un primo de 1024 bits
+a = 2
+b = random.getrandbits(256)
+c = j
 
+def potencia(x,y,z):
+    print("Ejercicio 4 - La potencia de x a la mod 2 es: ", "\n", pow(x,y,z))
     
+
+
