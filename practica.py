@@ -25,7 +25,7 @@ print("Secret Key B:", secret_key_B)
 
 #Checar si las claves secretas son iguales
 if secret_key_A == secret_key_B:
-    print("Las claves secretas son iguales.")
+    print("Las claves secretas SI son iguales.")
 else:
     print("Las claves secretas NO son iguales.")
 
